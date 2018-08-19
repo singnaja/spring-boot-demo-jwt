@@ -33,11 +33,11 @@ o Silver (salary < 30,000)
 
 # Design
 
-in path asc-demo-spring-boot-jwt/ASC_DEMO/document/design
+in path spring-boot-demo-jwt/spring-boot-demo-jwt/document/design
 
 # Test
 
-in path asc-demo-spring-boot-jwt/ASC_DEMO/document/testcases
+in path spring-boot-demo-jwt/spring-boot-demo-jwt/document/testcase
 
 # Run
 
